@@ -7,7 +7,7 @@
 A site where people can post their quotes and get rated accordingly by the viewers.
 
 ## Live link
-
+https://tynnienjambi.github.io/angular-project-1/
 
 ## Known Bugs
 No. There are no known bugs.
