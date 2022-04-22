@@ -44,7 +44,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-a/4VLxbYu/R9RS4hazPO4eYLhblLTnJJw11PuKQdYCjnEym5wnLuLHJ7lULtfUe1Ex6f3JR0rSU0kIuVX3d9Ew==" src="https://github.githubassets.com/assets/behaviors-6bfe152f16d8.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-gy8qIM5ywfZwY9t64qGa3rDcqWJGKXayF+CsUt0owghpz2eqnNX2tMtSRRdOybIIwu6cScH/b8SkXvSHQt5qow==" src="https://github.githubassets.com/assets/7749-832f2a20ce72.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-KKLG+hE5uCMJHxwocsH3WQNYzT3qftRjkNe7L0b5aOMgoS5iT5oWDIwhiy38adTWwg6xdomYeWvi2+wQBjOBAg==" src="https://github.githubassets.com/assets/notifications-global-28a2c6fa1139.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-xyGHYwjeMuGHmOdgy9Kb/p7zpSxjrw197tH6c+PzJj3L9zUCmjXBRbPky6B3Dqc/dN0x6OPF7n2Uh5u5MdbVUw==" src="https://github.githubassets.com/assets/90-c721876308de.js"></script>
+ <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-xyGHYwjeMuGHmOdgy9Kb/p7zpSxjrw197tH6c+PzJj3L9zUCmjXBRbPky6B3Dqc/dN0x6OPF7n2Uh5u5MdbVUw==" src="https://github.githubassets.com/assets/90-c721876308de.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-yQJj9KSqkN0rGILIl5ubSiTD86t9X9BlMb0117Z+PAn1EKtK5UxAmUfTas8lYk9xgx/aZIfMGzfXt3j0kfbbRw==" src="https://github.githubassets.com/assets/3878-c90263f4a4aa.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-YXiV7H/g5B89Ij/Daq5IkvOsSql1/BkovjxJPD2OssEyE9v3sUW3amxolz/nalVo9inOcBTzvnOxloG8kD9bzg==" src="https://github.githubassets.com/assets/codespaces-617895ec7fe0.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-AYqt3h3e9yBPkTVipsLLUCU2qCv7M31EodfqWxo5UKYyx8iI44MniIvWI5K+skqivkk0Auq3QaWslerlSihYqA==" src="https://github.githubassets.com/assets/6813-018aadde1dde.js"></script>
@@ -57,7 +57,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>angular-project-1/dist/Quotes at main · Thuotracy/angular-project-1</title>
+  <title>angular-project-1/Quotes at main · tynnienjambi/angular-project-1</title>
     <meta name="description" content="This is a website that people can write and delete quotes and the quotes can be like or disliked. - angular-project-1/dist/Quotes at main · Thuotracy/angular-project-1">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
